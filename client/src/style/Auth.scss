@@ -1,0 +1,24 @@
+.container-login{ 
+    background-color:  #ececec;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    }
+
+ 
+
+
+.banner-container{
+    flex: 2;
+    display: flex;
+    justify-content: end;
+}
+
+
+.logo-login{
+    position: absolute;
+    top: 22%;
+    border-radius: 50%;
+
+}
